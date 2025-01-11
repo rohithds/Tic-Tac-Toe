@@ -60,15 +60,7 @@ Draw: If no player wins and the board is full, the game will declare a draw.
 Contributing
 Feel free to fork this repository, create issues, and submit pull requests. Contributions are welcome!
 
-Steps to Contribute:
-Fork this repository to your GitHub account.
-Clone the forked repository to your local machine.
-Create a new branch for your feature or fix.
-Make the necessary changes.
-Push your changes back to your forked repository.
-Open a pull request to the main repository.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Author
 RohithDS
